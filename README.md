@@ -1,0 +1,1 @@
+# MySQL-StatefulSet-with-PVC-and-Secrets-on-AWS-EKS
